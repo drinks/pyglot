@@ -2,7 +2,7 @@
 """
 
 __author__ = "Dan Drinkard <dan.drinkard@gmail.com"
-__version__ = "2.0.0"
+__version__ = "0.1.0"
 __copyright__ = "Copyright (c) 2012 Dan Drinkard"
 __license__ = "BSD"
 
