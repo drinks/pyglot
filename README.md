@@ -19,7 +19,6 @@ See the [Google Translate docs](https://developers.google.com/translate/v2/using
     >>> lang.translate('The quick brown fox jumped over the lazy dog', target='de')
     GTranslation({u'translatedText': u'Der schnelle braune Fuchs sprang \xfcber den faulen Hund', u'detectedSourceLanguage': u'en'})
 
-
     # Detecting the language of text:
     >>> lang.detect('The quick brown fox jumped over the lazy dog')
     [GLanguage({u'isReliable': False, u'confidence': 0.79904306, u'language': u'en'})]
